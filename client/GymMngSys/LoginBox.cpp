@@ -18,8 +18,8 @@ LoginBox::LoginBox(QTcpSocket *socket)
     gymid->setPlaceholderText("最长11位");
     password->setPlaceholderText("最长11位");
     password->setEchoMode(QLineEdit::Password);
-    FormLayout->addRow("体育馆编号：",gymid);
-    FormLayout->addRow("体育馆密码：",password);
+    FormLayout->addRow("场馆编号：",gymid);
+    FormLayout->addRow("场馆密码：",password);
     FormLayout->setRowWrapPolicy(QFormLayout::WrapLongRows);
     QGridLayout* HBox = new QGridLayout;
     submit = new QPushButton("登录");

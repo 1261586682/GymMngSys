@@ -30,11 +30,11 @@ EditRegBox::EditRegBox(QTcpSocket *socket)
     position->setPlaceholderText("最长11位");
     builttime->setPlaceholderText("XXXX-XX-XX");
 
-    FormLayout->addRow("体育馆编号：",gymid);
-    FormLayout->addRow("体育馆名字：",gymname);
-    FormLayout->addRow("体育馆地点：",position);
-    FormLayout->addRow("体育馆建立时间：",builttime);
-    FormLayout->addRow("体育馆密码：\t",password);
+    FormLayout->addRow("场馆编号：",gymid);
+    FormLayout->addRow("场馆名字：",gymname);
+    FormLayout->addRow("场馆地点：",position);
+    FormLayout->addRow("场馆建立时间：",builttime);
+    FormLayout->addRow("场馆密码：\t",password);
     FormLayout->addRow("是否支持健身：\t",fitness);
     FormLayout->addRow("是否支持篮球：\t",basketball);
     FormLayout->addRow("是否支持羽毛球：\t",badminton);

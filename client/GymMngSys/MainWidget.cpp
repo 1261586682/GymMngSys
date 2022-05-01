@@ -3,7 +3,7 @@
 MainWidget::MainWidget(QTcpSocket* sock)
 {
 
-    setWindowTitle("高校体育馆管理系统");
+    setWindowTitle("高校场馆中心管理系统");
     this->resize(1000,600);
     socket = sock;
     LeftWidget = create_LeftWidget();
@@ -582,7 +582,7 @@ void MainWidget::in_func()
     //判断用户是否在表格中选中了某个人员信息，只有选中之后，才能执行删除操作
     if(items.count() <= 0)
     {
-        QMessageBox::warning(this,"提示","请选择要进入体育馆的人员");
+        QMessageBox::warning(this,"提示","请选择要进入场馆的人员");
         return;
     }
     QMessageBox::StandardButton result=QMessageBox::question(this, "提示","确定这些人要入馆吗？");
@@ -629,7 +629,7 @@ void MainWidget::out_func()
     //判断用户是否在表格中选中了某个人员信息，只有选中之后，才能执行删除操作
     if(items.count() <= 0)
     {
-        QMessageBox::warning(this,"提示","请选择要离开体育馆的人员");
+        QMessageBox::warning(this,"提示","请选择要离开场馆的人员");
         return;
     }
     QMessageBox::StandardButton result=QMessageBox::question(this, "提示","确定这些人要出馆吗？");
