@@ -7,7 +7,7 @@
 *****************************************************************************/
 
 #include <memory>
-#include "../../GymMngSys/EditRegBox.h"
+#include "../../client/GymMngSys/EditRegBox.h"
 #include <QtCore/qbytearray.h>
 #include <QtCore/qmetatype.h>
 #if !defined(Q_MOC_OUTPUT_REVISION)

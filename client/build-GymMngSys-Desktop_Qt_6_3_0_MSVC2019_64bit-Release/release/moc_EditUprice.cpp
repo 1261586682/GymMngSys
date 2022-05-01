@@ -7,7 +7,7 @@
 *****************************************************************************/
 
 #include <memory>
-#include "../../GymMngSys/EditUprice.h"
+#include "../../client/GymMngSys/EditUprice.h"
 #include <QtCore/qbytearray.h>
 #include <QtCore/qmetatype.h>
 #if !defined(Q_MOC_OUTPUT_REVISION)

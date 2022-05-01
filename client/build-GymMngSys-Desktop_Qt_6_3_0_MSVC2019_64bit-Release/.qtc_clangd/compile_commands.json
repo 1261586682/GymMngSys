@@ -7,7 +7,7 @@
         "-I",
         "C:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
         "-I",
-        "C:\\Users\\12615\\AppData\\Local\\Temp\\QtCreator-dgZsoR\\clang-uiheader-DkDzmc",
+        "C:\\Users\\12615\\AppData\\Local\\Temp\\QtCreator-CeQSCp\\clang-uiheader-mAHhHO",
         "-nostdinc",
         "-nostdinc++",
         "--driver-mode=cl",
@@ -57,7 +57,7 @@
         "-D__FUNCTION__=\"someLegalAndLongishFunctionNameThatWorksAroundQTCREATORBUG-24580\"",
         "-D__FUNCDNAME__=\"?someLegalAndLongishFunctionNameThatWorksAroundQTCREATORBUG-24580@@YAXXZ\"",
         "-I",
-        "C:\\Users\\12615\\Desktop\\GymMngSys\\GymMngSys",
+        "C:\\Users\\12615\\Desktop\\GymMngSys\\client\\GymMngSys",
         "-I",
         "C:\\Users\\12615\\Desktop\\tools\\protobuf\\protobuf-3.20.1\\src",
         "-I",
@@ -100,10 +100,10 @@
         "-Wno-unknown-warning-option",
         "-Wno-documentation-unknown-command",
         "-fno-delayed-template-parsing",
-        "C:\\Users\\12615\\Desktop\\GymMngSys\\GymMngSys\\EditMsgBox.cpp"
+        "C:\\Users\\12615\\Desktop\\GymMngSys\\client\\GymMngSys\\EditMsgBox.cpp"
     ],
     "directory": "C:/Users/12615/Desktop/GymMngSys/build-GymMngSys-Desktop_Qt_6_3_0_MSVC2019_64bit-Release/.qtc_clangd",
-    "file": "C:/Users/12615/Desktop/GymMngSys/GymMngSys/EditMsgBox.cpp"
+    "file": "C:/Users/12615/Desktop/GymMngSys/client/GymMngSys/EditMsgBox.cpp"
 },
 {
     "arguments": [
@@ -113,7 +113,7 @@
         "-I",
         "C:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
         "-I",
-        "C:\\Users\\12615\\AppData\\Local\\Temp\\QtCreator-dgZsoR\\clang-uiheader-DkDzmc",
+        "C:\\Users\\12615\\AppData\\Local\\Temp\\QtCreator-CeQSCp\\clang-uiheader-mAHhHO",
         "-nostdinc",
         "-nostdinc++",
         "--driver-mode=cl",
@@ -163,7 +163,7 @@
         "-D__FUNCTION__=\"someLegalAndLongishFunctionNameThatWorksAroundQTCREATORBUG-24580\"",
         "-D__FUNCDNAME__=\"?someLegalAndLongishFunctionNameThatWorksAroundQTCREATORBUG-24580@@YAXXZ\"",
         "-I",
-        "C:\\Users\\12615\\Desktop\\GymMngSys\\GymMngSys",
+        "C:\\Users\\12615\\Desktop\\GymMngSys\\client\\GymMngSys",
         "-I",
         "C:\\Users\\12615\\Desktop\\tools\\protobuf\\protobuf-3.20.1\\src",
         "-I",
@@ -206,10 +206,10 @@
         "-Wno-unknown-warning-option",
         "-Wno-documentation-unknown-command",
         "-fno-delayed-template-parsing",
-        "C:\\Users\\12615\\Desktop\\GymMngSys\\GymMngSys\\EditRCBox.cpp"
+        "C:\\Users\\12615\\Desktop\\GymMngSys\\client\\GymMngSys\\EditRCBox.cpp"
     ],
     "directory": "C:/Users/12615/Desktop/GymMngSys/build-GymMngSys-Desktop_Qt_6_3_0_MSVC2019_64bit-Release/.qtc_clangd",
-    "file": "C:/Users/12615/Desktop/GymMngSys/GymMngSys/EditRCBox.cpp"
+    "file": "C:/Users/12615/Desktop/GymMngSys/client/GymMngSys/EditRCBox.cpp"
 },
 {
     "arguments": [
@@ -219,7 +219,7 @@
         "-I",
         "C:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
         "-I",
-        "C:\\Users\\12615\\AppData\\Local\\Temp\\QtCreator-dgZsoR\\clang-uiheader-DkDzmc",
+        "C:\\Users\\12615\\AppData\\Local\\Temp\\QtCreator-CeQSCp\\clang-uiheader-mAHhHO",
         "-nostdinc",
         "-nostdinc++",
         "--driver-mode=cl",
@@ -269,7 +269,7 @@
         "-D__FUNCTION__=\"someLegalAndLongishFunctionNameThatWorksAroundQTCREATORBUG-24580\"",
         "-D__FUNCDNAME__=\"?someLegalAndLongishFunctionNameThatWorksAroundQTCREATORBUG-24580@@YAXXZ\"",
         "-I",
-        "C:\\Users\\12615\\Desktop\\GymMngSys\\GymMngSys",
+        "C:\\Users\\12615\\Desktop\\GymMngSys\\client\\GymMngSys",
         "-I",
         "C:\\Users\\12615\\Desktop\\tools\\protobuf\\protobuf-3.20.1\\src",
         "-I",
@@ -312,10 +312,10 @@
         "-Wno-unknown-warning-option",
         "-Wno-documentation-unknown-command",
         "-fno-delayed-template-parsing",
-        "C:\\Users\\12615\\Desktop\\GymMngSys\\GymMngSys\\EditRegBox.cpp"
+        "C:\\Users\\12615\\Desktop\\GymMngSys\\client\\GymMngSys\\EditRegBox.cpp"
     ],
     "directory": "C:/Users/12615/Desktop/GymMngSys/build-GymMngSys-Desktop_Qt_6_3_0_MSVC2019_64bit-Release/.qtc_clangd",
-    "file": "C:/Users/12615/Desktop/GymMngSys/GymMngSys/EditRegBox.cpp"
+    "file": "C:/Users/12615/Desktop/GymMngSys/client/GymMngSys/EditRegBox.cpp"
 },
 {
     "arguments": [
@@ -325,7 +325,7 @@
         "-I",
         "C:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
         "-I",
-        "C:\\Users\\12615\\AppData\\Local\\Temp\\QtCreator-dgZsoR\\clang-uiheader-DkDzmc",
+        "C:\\Users\\12615\\AppData\\Local\\Temp\\QtCreator-CeQSCp\\clang-uiheader-mAHhHO",
         "-nostdinc",
         "-nostdinc++",
         "--driver-mode=cl",
@@ -375,7 +375,7 @@
         "-D__FUNCTION__=\"someLegalAndLongishFunctionNameThatWorksAroundQTCREATORBUG-24580\"",
         "-D__FUNCDNAME__=\"?someLegalAndLongishFunctionNameThatWorksAroundQTCREATORBUG-24580@@YAXXZ\"",
         "-I",
-        "C:\\Users\\12615\\Desktop\\GymMngSys\\GymMngSys",
+        "C:\\Users\\12615\\Desktop\\GymMngSys\\client\\GymMngSys",
         "-I",
         "C:\\Users\\12615\\Desktop\\tools\\protobuf\\protobuf-3.20.1\\src",
         "-I",
@@ -418,10 +418,10 @@
         "-Wno-unknown-warning-option",
         "-Wno-documentation-unknown-command",
         "-fno-delayed-template-parsing",
-        "C:\\Users\\12615\\Desktop\\GymMngSys\\GymMngSys\\EditRprBox.cpp"
+        "C:\\Users\\12615\\Desktop\\GymMngSys\\client\\GymMngSys\\EditRprBox.cpp"
     ],
     "directory": "C:/Users/12615/Desktop/GymMngSys/build-GymMngSys-Desktop_Qt_6_3_0_MSVC2019_64bit-Release/.qtc_clangd",
-    "file": "C:/Users/12615/Desktop/GymMngSys/GymMngSys/EditRprBox.cpp"
+    "file": "C:/Users/12615/Desktop/GymMngSys/client/GymMngSys/EditRprBox.cpp"
 },
 {
     "arguments": [
@@ -431,7 +431,7 @@
         "-I",
         "C:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
         "-I",
-        "C:\\Users\\12615\\AppData\\Local\\Temp\\QtCreator-dgZsoR\\clang-uiheader-DkDzmc",
+        "C:\\Users\\12615\\AppData\\Local\\Temp\\QtCreator-CeQSCp\\clang-uiheader-mAHhHO",
         "-nostdinc",
         "-nostdinc++",
         "--driver-mode=cl",
@@ -481,7 +481,7 @@
         "-D__FUNCTION__=\"someLegalAndLongishFunctionNameThatWorksAroundQTCREATORBUG-24580\"",
         "-D__FUNCDNAME__=\"?someLegalAndLongishFunctionNameThatWorksAroundQTCREATORBUG-24580@@YAXXZ\"",
         "-I",
-        "C:\\Users\\12615\\Desktop\\GymMngSys\\GymMngSys",
+        "C:\\Users\\12615\\Desktop\\GymMngSys\\client\\GymMngSys",
         "-I",
         "C:\\Users\\12615\\Desktop\\tools\\protobuf\\protobuf-3.20.1\\src",
         "-I",
@@ -524,10 +524,10 @@
         "-Wno-unknown-warning-option",
         "-Wno-documentation-unknown-command",
         "-fno-delayed-template-parsing",
-        "C:\\Users\\12615\\Desktop\\GymMngSys\\GymMngSys\\EditUprice.cpp"
+        "C:\\Users\\12615\\Desktop\\GymMngSys\\client\\GymMngSys\\EditUprice.cpp"
     ],
     "directory": "C:/Users/12615/Desktop/GymMngSys/build-GymMngSys-Desktop_Qt_6_3_0_MSVC2019_64bit-Release/.qtc_clangd",
-    "file": "C:/Users/12615/Desktop/GymMngSys/GymMngSys/EditUprice.cpp"
+    "file": "C:/Users/12615/Desktop/GymMngSys/client/GymMngSys/EditUprice.cpp"
 },
 {
     "arguments": [
@@ -537,7 +537,7 @@
         "-I",
         "C:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
         "-I",
-        "C:\\Users\\12615\\AppData\\Local\\Temp\\QtCreator-dgZsoR\\clang-uiheader-DkDzmc",
+        "C:\\Users\\12615\\AppData\\Local\\Temp\\QtCreator-CeQSCp\\clang-uiheader-mAHhHO",
         "-nostdinc",
         "-nostdinc++",
         "--driver-mode=cl",
@@ -587,7 +587,7 @@
         "-D__FUNCTION__=\"someLegalAndLongishFunctionNameThatWorksAroundQTCREATORBUG-24580\"",
         "-D__FUNCDNAME__=\"?someLegalAndLongishFunctionNameThatWorksAroundQTCREATORBUG-24580@@YAXXZ\"",
         "-I",
-        "C:\\Users\\12615\\Desktop\\GymMngSys\\GymMngSys",
+        "C:\\Users\\12615\\Desktop\\GymMngSys\\client\\GymMngSys",
         "-I",
         "C:\\Users\\12615\\Desktop\\tools\\protobuf\\protobuf-3.20.1\\src",
         "-I",
@@ -630,10 +630,10 @@
         "-Wno-unknown-warning-option",
         "-Wno-documentation-unknown-command",
         "-fno-delayed-template-parsing",
-        "C:\\Users\\12615\\Desktop\\GymMngSys\\GymMngSys\\Editconn.cpp"
+        "C:\\Users\\12615\\Desktop\\GymMngSys\\client\\GymMngSys\\Editconn.cpp"
     ],
     "directory": "C:/Users/12615/Desktop/GymMngSys/build-GymMngSys-Desktop_Qt_6_3_0_MSVC2019_64bit-Release/.qtc_clangd",
-    "file": "C:/Users/12615/Desktop/GymMngSys/GymMngSys/Editconn.cpp"
+    "file": "C:/Users/12615/Desktop/GymMngSys/client/GymMngSys/Editconn.cpp"
 },
 {
     "arguments": [
@@ -643,7 +643,7 @@
         "-I",
         "C:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
         "-I",
-        "C:\\Users\\12615\\AppData\\Local\\Temp\\QtCreator-dgZsoR\\clang-uiheader-DkDzmc",
+        "C:\\Users\\12615\\AppData\\Local\\Temp\\QtCreator-CeQSCp\\clang-uiheader-mAHhHO",
         "-nostdinc",
         "-nostdinc++",
         "--driver-mode=cl",
@@ -693,7 +693,7 @@
         "-D__FUNCTION__=\"someLegalAndLongishFunctionNameThatWorksAroundQTCREATORBUG-24580\"",
         "-D__FUNCDNAME__=\"?someLegalAndLongishFunctionNameThatWorksAroundQTCREATORBUG-24580@@YAXXZ\"",
         "-I",
-        "C:\\Users\\12615\\Desktop\\GymMngSys\\GymMngSys",
+        "C:\\Users\\12615\\Desktop\\GymMngSys\\client\\GymMngSys",
         "-I",
         "C:\\Users\\12615\\Desktop\\tools\\protobuf\\protobuf-3.20.1\\src",
         "-I",
@@ -736,10 +736,10 @@
         "-Wno-unknown-warning-option",
         "-Wno-documentation-unknown-command",
         "-fno-delayed-template-parsing",
-        "C:\\Users\\12615\\Desktop\\GymMngSys\\GymMngSys\\LoginBox.cpp"
+        "C:\\Users\\12615\\Desktop\\GymMngSys\\client\\GymMngSys\\LoginBox.cpp"
     ],
     "directory": "C:/Users/12615/Desktop/GymMngSys/build-GymMngSys-Desktop_Qt_6_3_0_MSVC2019_64bit-Release/.qtc_clangd",
-    "file": "C:/Users/12615/Desktop/GymMngSys/GymMngSys/LoginBox.cpp"
+    "file": "C:/Users/12615/Desktop/GymMngSys/client/GymMngSys/LoginBox.cpp"
 },
 {
     "arguments": [
@@ -749,7 +749,7 @@
         "-I",
         "C:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
         "-I",
-        "C:\\Users\\12615\\AppData\\Local\\Temp\\QtCreator-dgZsoR\\clang-uiheader-DkDzmc",
+        "C:\\Users\\12615\\AppData\\Local\\Temp\\QtCreator-CeQSCp\\clang-uiheader-mAHhHO",
         "-nostdinc",
         "-nostdinc++",
         "--driver-mode=cl",
@@ -799,7 +799,7 @@
         "-D__FUNCTION__=\"someLegalAndLongishFunctionNameThatWorksAroundQTCREATORBUG-24580\"",
         "-D__FUNCDNAME__=\"?someLegalAndLongishFunctionNameThatWorksAroundQTCREATORBUG-24580@@YAXXZ\"",
         "-I",
-        "C:\\Users\\12615\\Desktop\\GymMngSys\\GymMngSys",
+        "C:\\Users\\12615\\Desktop\\GymMngSys\\client\\GymMngSys",
         "-I",
         "C:\\Users\\12615\\Desktop\\tools\\protobuf\\protobuf-3.20.1\\src",
         "-I",
@@ -842,10 +842,10 @@
         "-Wno-unknown-warning-option",
         "-Wno-documentation-unknown-command",
         "-fno-delayed-template-parsing",
-        "C:\\Users\\12615\\Desktop\\GymMngSys\\GymMngSys\\MainWidget.cpp"
+        "C:\\Users\\12615\\Desktop\\GymMngSys\\client\\GymMngSys\\MainWidget.cpp"
     ],
     "directory": "C:/Users/12615/Desktop/GymMngSys/build-GymMngSys-Desktop_Qt_6_3_0_MSVC2019_64bit-Release/.qtc_clangd",
-    "file": "C:/Users/12615/Desktop/GymMngSys/GymMngSys/MainWidget.cpp"
+    "file": "C:/Users/12615/Desktop/GymMngSys/client/GymMngSys/MainWidget.cpp"
 },
 {
     "arguments": [
@@ -855,7 +855,7 @@
         "-I",
         "C:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
         "-I",
-        "C:\\Users\\12615\\AppData\\Local\\Temp\\QtCreator-dgZsoR\\clang-uiheader-DkDzmc",
+        "C:\\Users\\12615\\AppData\\Local\\Temp\\QtCreator-CeQSCp\\clang-uiheader-mAHhHO",
         "-nostdinc",
         "-nostdinc++",
         "--driver-mode=cl",
@@ -905,7 +905,7 @@
         "-D__FUNCTION__=\"someLegalAndLongishFunctionNameThatWorksAroundQTCREATORBUG-24580\"",
         "-D__FUNCDNAME__=\"?someLegalAndLongishFunctionNameThatWorksAroundQTCREATORBUG-24580@@YAXXZ\"",
         "-I",
-        "C:\\Users\\12615\\Desktop\\GymMngSys\\GymMngSys",
+        "C:\\Users\\12615\\Desktop\\GymMngSys\\client\\GymMngSys",
         "-I",
         "C:\\Users\\12615\\Desktop\\tools\\protobuf\\protobuf-3.20.1\\src",
         "-I",
@@ -948,10 +948,10 @@
         "-Wno-unknown-warning-option",
         "-Wno-documentation-unknown-command",
         "-fno-delayed-template-parsing",
-        "C:\\Users\\12615\\Desktop\\GymMngSys\\GymMngSys\\Personnel.cpp"
+        "C:\\Users\\12615\\Desktop\\GymMngSys\\client\\GymMngSys\\Personnel.cpp"
     ],
     "directory": "C:/Users/12615/Desktop/GymMngSys/build-GymMngSys-Desktop_Qt_6_3_0_MSVC2019_64bit-Release/.qtc_clangd",
-    "file": "C:/Users/12615/Desktop/GymMngSys/GymMngSys/Personnel.cpp"
+    "file": "C:/Users/12615/Desktop/GymMngSys/client/GymMngSys/Personnel.cpp"
 },
 {
     "arguments": [
@@ -961,7 +961,7 @@
         "-I",
         "C:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
         "-I",
-        "C:\\Users\\12615\\AppData\\Local\\Temp\\QtCreator-dgZsoR\\clang-uiheader-DkDzmc",
+        "C:\\Users\\12615\\AppData\\Local\\Temp\\QtCreator-CeQSCp\\clang-uiheader-mAHhHO",
         "-nostdinc",
         "-nostdinc++",
         "--driver-mode=cl",
@@ -1011,7 +1011,7 @@
         "-D__FUNCTION__=\"someLegalAndLongishFunctionNameThatWorksAroundQTCREATORBUG-24580\"",
         "-D__FUNCDNAME__=\"?someLegalAndLongishFunctionNameThatWorksAroundQTCREATORBUG-24580@@YAXXZ\"",
         "-I",
-        "C:\\Users\\12615\\Desktop\\GymMngSys\\GymMngSys",
+        "C:\\Users\\12615\\Desktop\\GymMngSys\\client\\GymMngSys",
         "-I",
         "C:\\Users\\12615\\Desktop\\tools\\protobuf\\protobuf-3.20.1\\src",
         "-I",
@@ -1054,10 +1054,10 @@
         "-Wno-unknown-warning-option",
         "-Wno-documentation-unknown-command",
         "-fno-delayed-template-parsing",
-        "C:\\Users\\12615\\Desktop\\GymMngSys\\GymMngSys\\Repairlog.cpp"
+        "C:\\Users\\12615\\Desktop\\GymMngSys\\client\\GymMngSys\\Repairlog.cpp"
     ],
     "directory": "C:/Users/12615/Desktop/GymMngSys/build-GymMngSys-Desktop_Qt_6_3_0_MSVC2019_64bit-Release/.qtc_clangd",
-    "file": "C:/Users/12615/Desktop/GymMngSys/GymMngSys/Repairlog.cpp"
+    "file": "C:/Users/12615/Desktop/GymMngSys/client/GymMngSys/Repairlog.cpp"
 },
 {
     "arguments": [
@@ -1067,7 +1067,7 @@
         "-I",
         "C:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
         "-I",
-        "C:\\Users\\12615\\AppData\\Local\\Temp\\QtCreator-dgZsoR\\clang-uiheader-DkDzmc",
+        "C:\\Users\\12615\\AppData\\Local\\Temp\\QtCreator-CeQSCp\\clang-uiheader-mAHhHO",
         "-nostdinc",
         "-nostdinc++",
         "--driver-mode=cl",
@@ -1117,7 +1117,7 @@
         "-D__FUNCTION__=\"someLegalAndLongishFunctionNameThatWorksAroundQTCREATORBUG-24580\"",
         "-D__FUNCDNAME__=\"?someLegalAndLongishFunctionNameThatWorksAroundQTCREATORBUG-24580@@YAXXZ\"",
         "-I",
-        "C:\\Users\\12615\\Desktop\\GymMngSys\\GymMngSys",
+        "C:\\Users\\12615\\Desktop\\GymMngSys\\client\\GymMngSys",
         "-I",
         "C:\\Users\\12615\\Desktop\\tools\\protobuf\\protobuf-3.20.1\\src",
         "-I",
@@ -1160,10 +1160,10 @@
         "-Wno-unknown-warning-option",
         "-Wno-documentation-unknown-command",
         "-fno-delayed-template-parsing",
-        "C:\\Users\\12615\\Desktop\\GymMngSys\\GymMngSys\\enum.cpp"
+        "C:\\Users\\12615\\Desktop\\GymMngSys\\client\\GymMngSys\\enum.cpp"
     ],
     "directory": "C:/Users/12615/Desktop/GymMngSys/build-GymMngSys-Desktop_Qt_6_3_0_MSVC2019_64bit-Release/.qtc_clangd",
-    "file": "C:/Users/12615/Desktop/GymMngSys/GymMngSys/enum.cpp"
+    "file": "C:/Users/12615/Desktop/GymMngSys/client/GymMngSys/enum.cpp"
 },
 {
     "arguments": [
@@ -1173,7 +1173,7 @@
         "-I",
         "C:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
         "-I",
-        "C:\\Users\\12615\\AppData\\Local\\Temp\\QtCreator-dgZsoR\\clang-uiheader-DkDzmc",
+        "C:\\Users\\12615\\AppData\\Local\\Temp\\QtCreator-CeQSCp\\clang-uiheader-mAHhHO",
         "-nostdinc",
         "-nostdinc++",
         "--driver-mode=cl",
@@ -1223,7 +1223,7 @@
         "-D__FUNCTION__=\"someLegalAndLongishFunctionNameThatWorksAroundQTCREATORBUG-24580\"",
         "-D__FUNCDNAME__=\"?someLegalAndLongishFunctionNameThatWorksAroundQTCREATORBUG-24580@@YAXXZ\"",
         "-I",
-        "C:\\Users\\12615\\Desktop\\GymMngSys\\GymMngSys",
+        "C:\\Users\\12615\\Desktop\\GymMngSys\\client\\GymMngSys",
         "-I",
         "C:\\Users\\12615\\Desktop\\tools\\protobuf\\protobuf-3.20.1\\src",
         "-I",
@@ -1266,10 +1266,10 @@
         "-Wno-unknown-warning-option",
         "-Wno-documentation-unknown-command",
         "-fno-delayed-template-parsing",
-        "C:\\Users\\12615\\Desktop\\GymMngSys\\GymMngSys\\exsi.cpp"
+        "C:\\Users\\12615\\Desktop\\GymMngSys\\client\\GymMngSys\\exsi.cpp"
     ],
     "directory": "C:/Users/12615/Desktop/GymMngSys/build-GymMngSys-Desktop_Qt_6_3_0_MSVC2019_64bit-Release/.qtc_clangd",
-    "file": "C:/Users/12615/Desktop/GymMngSys/GymMngSys/exsi.cpp"
+    "file": "C:/Users/12615/Desktop/GymMngSys/client/GymMngSys/exsi.cpp"
 },
 {
     "arguments": [
@@ -1279,7 +1279,7 @@
         "-I",
         "C:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
         "-I",
-        "C:\\Users\\12615\\AppData\\Local\\Temp\\QtCreator-dgZsoR\\clang-uiheader-DkDzmc",
+        "C:\\Users\\12615\\AppData\\Local\\Temp\\QtCreator-CeQSCp\\clang-uiheader-mAHhHO",
         "-nostdinc",
         "-nostdinc++",
         "--driver-mode=cl",
@@ -1329,7 +1329,7 @@
         "-D__FUNCTION__=\"someLegalAndLongishFunctionNameThatWorksAroundQTCREATORBUG-24580\"",
         "-D__FUNCDNAME__=\"?someLegalAndLongishFunctionNameThatWorksAroundQTCREATORBUG-24580@@YAXXZ\"",
         "-I",
-        "C:\\Users\\12615\\Desktop\\GymMngSys\\GymMngSys",
+        "C:\\Users\\12615\\Desktop\\GymMngSys\\client\\GymMngSys",
         "-I",
         "C:\\Users\\12615\\Desktop\\tools\\protobuf\\protobuf-3.20.1\\src",
         "-I",
@@ -1372,10 +1372,10 @@
         "-Wno-unknown-warning-option",
         "-Wno-documentation-unknown-command",
         "-fno-delayed-template-parsing",
-        "C:\\Users\\12615\\Desktop\\GymMngSys\\GymMngSys\\main.cpp"
+        "C:\\Users\\12615\\Desktop\\GymMngSys\\client\\GymMngSys\\main.cpp"
     ],
     "directory": "C:/Users/12615/Desktop/GymMngSys/build-GymMngSys-Desktop_Qt_6_3_0_MSVC2019_64bit-Release/.qtc_clangd",
-    "file": "C:/Users/12615/Desktop/GymMngSys/GymMngSys/main.cpp"
+    "file": "C:/Users/12615/Desktop/GymMngSys/client/GymMngSys/main.cpp"
 },
 {
     "arguments": [
@@ -1385,7 +1385,7 @@
         "-I",
         "C:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
         "-I",
-        "C:\\Users\\12615\\AppData\\Local\\Temp\\QtCreator-dgZsoR\\clang-uiheader-DkDzmc",
+        "C:\\Users\\12615\\AppData\\Local\\Temp\\QtCreator-CeQSCp\\clang-uiheader-mAHhHO",
         "-nostdinc",
         "-nostdinc++",
         "--driver-mode=cl",
@@ -1435,7 +1435,7 @@
         "-D__FUNCTION__=\"someLegalAndLongishFunctionNameThatWorksAroundQTCREATORBUG-24580\"",
         "-D__FUNCDNAME__=\"?someLegalAndLongishFunctionNameThatWorksAroundQTCREATORBUG-24580@@YAXXZ\"",
         "-I",
-        "C:\\Users\\12615\\Desktop\\GymMngSys\\GymMngSys",
+        "C:\\Users\\12615\\Desktop\\GymMngSys\\client\\GymMngSys",
         "-I",
         "C:\\Users\\12615\\Desktop\\tools\\protobuf\\protobuf-3.20.1\\src",
         "-I",
@@ -1478,10 +1478,10 @@
         "-Wno-unknown-warning-option",
         "-Wno-documentation-unknown-command",
         "-fno-delayed-template-parsing",
-        "C:\\Users\\12615\\Desktop\\GymMngSys\\GymMngSys\\proto.pb.cc"
+        "C:\\Users\\12615\\Desktop\\GymMngSys\\client\\GymMngSys\\proto.pb.cc"
     ],
     "directory": "C:/Users/12615/Desktop/GymMngSys/build-GymMngSys-Desktop_Qt_6_3_0_MSVC2019_64bit-Release/.qtc_clangd",
-    "file": "C:/Users/12615/Desktop/GymMngSys/GymMngSys/proto.pb.cc"
+    "file": "C:/Users/12615/Desktop/GymMngSys/client/GymMngSys/proto.pb.cc"
 },
 {
     "arguments": [
@@ -1491,7 +1491,7 @@
         "-I",
         "C:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
         "-I",
-        "C:\\Users\\12615\\AppData\\Local\\Temp\\QtCreator-dgZsoR\\clang-uiheader-DkDzmc",
+        "C:\\Users\\12615\\AppData\\Local\\Temp\\QtCreator-CeQSCp\\clang-uiheader-mAHhHO",
         "-nostdinc",
         "-nostdinc++",
         "--driver-mode=cl",
@@ -1541,7 +1541,7 @@
         "-D__FUNCTION__=\"someLegalAndLongishFunctionNameThatWorksAroundQTCREATORBUG-24580\"",
         "-D__FUNCDNAME__=\"?someLegalAndLongishFunctionNameThatWorksAroundQTCREATORBUG-24580@@YAXXZ\"",
         "-I",
-        "C:\\Users\\12615\\Desktop\\GymMngSys\\GymMngSys",
+        "C:\\Users\\12615\\Desktop\\GymMngSys\\client\\GymMngSys",
         "-I",
         "C:\\Users\\12615\\Desktop\\tools\\protobuf\\protobuf-3.20.1\\src",
         "-I",
@@ -1584,10 +1584,10 @@
         "-Wno-unknown-warning-option",
         "-Wno-documentation-unknown-command",
         "-fno-delayed-template-parsing",
-        "C:\\Users\\12615\\Desktop\\GymMngSys\\GymMngSys\\EditMsgBox.h"
+        "C:\\Users\\12615\\Desktop\\GymMngSys\\client\\GymMngSys\\EditMsgBox.h"
     ],
     "directory": "C:/Users/12615/Desktop/GymMngSys/build-GymMngSys-Desktop_Qt_6_3_0_MSVC2019_64bit-Release/.qtc_clangd",
-    "file": "C:/Users/12615/Desktop/GymMngSys/GymMngSys/EditMsgBox.h"
+    "file": "C:/Users/12615/Desktop/GymMngSys/client/GymMngSys/EditMsgBox.h"
 },
 {
     "arguments": [
@@ -1597,7 +1597,7 @@
         "-I",
         "C:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
         "-I",
-        "C:\\Users\\12615\\AppData\\Local\\Temp\\QtCreator-dgZsoR\\clang-uiheader-DkDzmc",
+        "C:\\Users\\12615\\AppData\\Local\\Temp\\QtCreator-CeQSCp\\clang-uiheader-mAHhHO",
         "-nostdinc",
         "-nostdinc++",
         "--driver-mode=cl",
@@ -1647,7 +1647,7 @@
         "-D__FUNCTION__=\"someLegalAndLongishFunctionNameThatWorksAroundQTCREATORBUG-24580\"",
         "-D__FUNCDNAME__=\"?someLegalAndLongishFunctionNameThatWorksAroundQTCREATORBUG-24580@@YAXXZ\"",
         "-I",
-        "C:\\Users\\12615\\Desktop\\GymMngSys\\GymMngSys",
+        "C:\\Users\\12615\\Desktop\\GymMngSys\\client\\GymMngSys",
         "-I",
         "C:\\Users\\12615\\Desktop\\tools\\protobuf\\protobuf-3.20.1\\src",
         "-I",
@@ -1690,10 +1690,10 @@
         "-Wno-unknown-warning-option",
         "-Wno-documentation-unknown-command",
         "-fno-delayed-template-parsing",
-        "C:\\Users\\12615\\Desktop\\GymMngSys\\GymMngSys\\EditRCBox.h"
+        "C:\\Users\\12615\\Desktop\\GymMngSys\\client\\GymMngSys\\EditRCBox.h"
     ],
     "directory": "C:/Users/12615/Desktop/GymMngSys/build-GymMngSys-Desktop_Qt_6_3_0_MSVC2019_64bit-Release/.qtc_clangd",
-    "file": "C:/Users/12615/Desktop/GymMngSys/GymMngSys/EditRCBox.h"
+    "file": "C:/Users/12615/Desktop/GymMngSys/client/GymMngSys/EditRCBox.h"
 },
 {
     "arguments": [
@@ -1703,7 +1703,7 @@
         "-I",
         "C:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
         "-I",
-        "C:\\Users\\12615\\AppData\\Local\\Temp\\QtCreator-dgZsoR\\clang-uiheader-DkDzmc",
+        "C:\\Users\\12615\\AppData\\Local\\Temp\\QtCreator-CeQSCp\\clang-uiheader-mAHhHO",
         "-nostdinc",
         "-nostdinc++",
         "--driver-mode=cl",
@@ -1753,7 +1753,7 @@
         "-D__FUNCTION__=\"someLegalAndLongishFunctionNameThatWorksAroundQTCREATORBUG-24580\"",
         "-D__FUNCDNAME__=\"?someLegalAndLongishFunctionNameThatWorksAroundQTCREATORBUG-24580@@YAXXZ\"",
         "-I",
-        "C:\\Users\\12615\\Desktop\\GymMngSys\\GymMngSys",
+        "C:\\Users\\12615\\Desktop\\GymMngSys\\client\\GymMngSys",
         "-I",
         "C:\\Users\\12615\\Desktop\\tools\\protobuf\\protobuf-3.20.1\\src",
         "-I",
@@ -1796,10 +1796,10 @@
         "-Wno-unknown-warning-option",
         "-Wno-documentation-unknown-command",
         "-fno-delayed-template-parsing",
-        "C:\\Users\\12615\\Desktop\\GymMngSys\\GymMngSys\\EditRegBox.h"
+        "C:\\Users\\12615\\Desktop\\GymMngSys\\client\\GymMngSys\\EditRegBox.h"
     ],
     "directory": "C:/Users/12615/Desktop/GymMngSys/build-GymMngSys-Desktop_Qt_6_3_0_MSVC2019_64bit-Release/.qtc_clangd",
-    "file": "C:/Users/12615/Desktop/GymMngSys/GymMngSys/EditRegBox.h"
+    "file": "C:/Users/12615/Desktop/GymMngSys/client/GymMngSys/EditRegBox.h"
 },
 {
     "arguments": [
@@ -1809,7 +1809,7 @@
         "-I",
         "C:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
         "-I",
-        "C:\\Users\\12615\\AppData\\Local\\Temp\\QtCreator-dgZsoR\\clang-uiheader-DkDzmc",
+        "C:\\Users\\12615\\AppData\\Local\\Temp\\QtCreator-CeQSCp\\clang-uiheader-mAHhHO",
         "-nostdinc",
         "-nostdinc++",
         "--driver-mode=cl",
@@ -1859,7 +1859,7 @@
         "-D__FUNCTION__=\"someLegalAndLongishFunctionNameThatWorksAroundQTCREATORBUG-24580\"",
         "-D__FUNCDNAME__=\"?someLegalAndLongishFunctionNameThatWorksAroundQTCREATORBUG-24580@@YAXXZ\"",
         "-I",
-        "C:\\Users\\12615\\Desktop\\GymMngSys\\GymMngSys",
+        "C:\\Users\\12615\\Desktop\\GymMngSys\\client\\GymMngSys",
         "-I",
         "C:\\Users\\12615\\Desktop\\tools\\protobuf\\protobuf-3.20.1\\src",
         "-I",
@@ -1902,10 +1902,10 @@
         "-Wno-unknown-warning-option",
         "-Wno-documentation-unknown-command",
         "-fno-delayed-template-parsing",
-        "C:\\Users\\12615\\Desktop\\GymMngSys\\GymMngSys\\EditRprBox.h"
+        "C:\\Users\\12615\\Desktop\\GymMngSys\\client\\GymMngSys\\EditRprBox.h"
     ],
     "directory": "C:/Users/12615/Desktop/GymMngSys/build-GymMngSys-Desktop_Qt_6_3_0_MSVC2019_64bit-Release/.qtc_clangd",
-    "file": "C:/Users/12615/Desktop/GymMngSys/GymMngSys/EditRprBox.h"
+    "file": "C:/Users/12615/Desktop/GymMngSys/client/GymMngSys/EditRprBox.h"
 },
 {
     "arguments": [
@@ -1915,7 +1915,7 @@
         "-I",
         "C:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
         "-I",
-        "C:\\Users\\12615\\AppData\\Local\\Temp\\QtCreator-dgZsoR\\clang-uiheader-DkDzmc",
+        "C:\\Users\\12615\\AppData\\Local\\Temp\\QtCreator-CeQSCp\\clang-uiheader-mAHhHO",
         "-nostdinc",
         "-nostdinc++",
         "--driver-mode=cl",
@@ -1965,7 +1965,7 @@
         "-D__FUNCTION__=\"someLegalAndLongishFunctionNameThatWorksAroundQTCREATORBUG-24580\"",
         "-D__FUNCDNAME__=\"?someLegalAndLongishFunctionNameThatWorksAroundQTCREATORBUG-24580@@YAXXZ\"",
         "-I",
-        "C:\\Users\\12615\\Desktop\\GymMngSys\\GymMngSys",
+        "C:\\Users\\12615\\Desktop\\GymMngSys\\client\\GymMngSys",
         "-I",
         "C:\\Users\\12615\\Desktop\\tools\\protobuf\\protobuf-3.20.1\\src",
         "-I",
@@ -2008,10 +2008,10 @@
         "-Wno-unknown-warning-option",
         "-Wno-documentation-unknown-command",
         "-fno-delayed-template-parsing",
-        "C:\\Users\\12615\\Desktop\\GymMngSys\\GymMngSys\\EditUprice.h"
+        "C:\\Users\\12615\\Desktop\\GymMngSys\\client\\GymMngSys\\EditUprice.h"
     ],
     "directory": "C:/Users/12615/Desktop/GymMngSys/build-GymMngSys-Desktop_Qt_6_3_0_MSVC2019_64bit-Release/.qtc_clangd",
-    "file": "C:/Users/12615/Desktop/GymMngSys/GymMngSys/EditUprice.h"
+    "file": "C:/Users/12615/Desktop/GymMngSys/client/GymMngSys/EditUprice.h"
 },
 {
     "arguments": [
@@ -2021,7 +2021,7 @@
         "-I",
         "C:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
         "-I",
-        "C:\\Users\\12615\\AppData\\Local\\Temp\\QtCreator-dgZsoR\\clang-uiheader-DkDzmc",
+        "C:\\Users\\12615\\AppData\\Local\\Temp\\QtCreator-CeQSCp\\clang-uiheader-mAHhHO",
         "-nostdinc",
         "-nostdinc++",
         "--driver-mode=cl",
@@ -2071,7 +2071,7 @@
         "-D__FUNCTION__=\"someLegalAndLongishFunctionNameThatWorksAroundQTCREATORBUG-24580\"",
         "-D__FUNCDNAME__=\"?someLegalAndLongishFunctionNameThatWorksAroundQTCREATORBUG-24580@@YAXXZ\"",
         "-I",
-        "C:\\Users\\12615\\Desktop\\GymMngSys\\GymMngSys",
+        "C:\\Users\\12615\\Desktop\\GymMngSys\\client\\GymMngSys",
         "-I",
         "C:\\Users\\12615\\Desktop\\tools\\protobuf\\protobuf-3.20.1\\src",
         "-I",
@@ -2114,10 +2114,10 @@
         "-Wno-unknown-warning-option",
         "-Wno-documentation-unknown-command",
         "-fno-delayed-template-parsing",
-        "C:\\Users\\12615\\Desktop\\GymMngSys\\GymMngSys\\Editconn.h"
+        "C:\\Users\\12615\\Desktop\\GymMngSys\\client\\GymMngSys\\Editconn.h"
     ],
     "directory": "C:/Users/12615/Desktop/GymMngSys/build-GymMngSys-Desktop_Qt_6_3_0_MSVC2019_64bit-Release/.qtc_clangd",
-    "file": "C:/Users/12615/Desktop/GymMngSys/GymMngSys/Editconn.h"
+    "file": "C:/Users/12615/Desktop/GymMngSys/client/GymMngSys/Editconn.h"
 },
 {
     "arguments": [
@@ -2127,7 +2127,7 @@
         "-I",
         "C:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
         "-I",
-        "C:\\Users\\12615\\AppData\\Local\\Temp\\QtCreator-dgZsoR\\clang-uiheader-DkDzmc",
+        "C:\\Users\\12615\\AppData\\Local\\Temp\\QtCreator-CeQSCp\\clang-uiheader-mAHhHO",
         "-nostdinc",
         "-nostdinc++",
         "--driver-mode=cl",
@@ -2177,7 +2177,7 @@
         "-D__FUNCTION__=\"someLegalAndLongishFunctionNameThatWorksAroundQTCREATORBUG-24580\"",
         "-D__FUNCDNAME__=\"?someLegalAndLongishFunctionNameThatWorksAroundQTCREATORBUG-24580@@YAXXZ\"",
         "-I",
-        "C:\\Users\\12615\\Desktop\\GymMngSys\\GymMngSys",
+        "C:\\Users\\12615\\Desktop\\GymMngSys\\client\\GymMngSys",
         "-I",
         "C:\\Users\\12615\\Desktop\\tools\\protobuf\\protobuf-3.20.1\\src",
         "-I",
@@ -2220,10 +2220,10 @@
         "-Wno-unknown-warning-option",
         "-Wno-documentation-unknown-command",
         "-fno-delayed-template-parsing",
-        "C:\\Users\\12615\\Desktop\\GymMngSys\\GymMngSys\\LoginBox.h"
+        "C:\\Users\\12615\\Desktop\\GymMngSys\\client\\GymMngSys\\LoginBox.h"
     ],
     "directory": "C:/Users/12615/Desktop/GymMngSys/build-GymMngSys-Desktop_Qt_6_3_0_MSVC2019_64bit-Release/.qtc_clangd",
-    "file": "C:/Users/12615/Desktop/GymMngSys/GymMngSys/LoginBox.h"
+    "file": "C:/Users/12615/Desktop/GymMngSys/client/GymMngSys/LoginBox.h"
 },
 {
     "arguments": [
@@ -2233,7 +2233,7 @@
         "-I",
         "C:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
         "-I",
-        "C:\\Users\\12615\\AppData\\Local\\Temp\\QtCreator-dgZsoR\\clang-uiheader-DkDzmc",
+        "C:\\Users\\12615\\AppData\\Local\\Temp\\QtCreator-CeQSCp\\clang-uiheader-mAHhHO",
         "-nostdinc",
         "-nostdinc++",
         "--driver-mode=cl",
@@ -2283,7 +2283,7 @@
         "-D__FUNCTION__=\"someLegalAndLongishFunctionNameThatWorksAroundQTCREATORBUG-24580\"",
         "-D__FUNCDNAME__=\"?someLegalAndLongishFunctionNameThatWorksAroundQTCREATORBUG-24580@@YAXXZ\"",
         "-I",
-        "C:\\Users\\12615\\Desktop\\GymMngSys\\GymMngSys",
+        "C:\\Users\\12615\\Desktop\\GymMngSys\\client\\GymMngSys",
         "-I",
         "C:\\Users\\12615\\Desktop\\tools\\protobuf\\protobuf-3.20.1\\src",
         "-I",
@@ -2326,10 +2326,10 @@
         "-Wno-unknown-warning-option",
         "-Wno-documentation-unknown-command",
         "-fno-delayed-template-parsing",
-        "C:\\Users\\12615\\Desktop\\GymMngSys\\GymMngSys\\MainWidget.h"
+        "C:\\Users\\12615\\Desktop\\GymMngSys\\client\\GymMngSys\\MainWidget.h"
     ],
     "directory": "C:/Users/12615/Desktop/GymMngSys/build-GymMngSys-Desktop_Qt_6_3_0_MSVC2019_64bit-Release/.qtc_clangd",
-    "file": "C:/Users/12615/Desktop/GymMngSys/GymMngSys/MainWidget.h"
+    "file": "C:/Users/12615/Desktop/GymMngSys/client/GymMngSys/MainWidget.h"
 },
 {
     "arguments": [
@@ -2339,7 +2339,7 @@
         "-I",
         "C:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
         "-I",
-        "C:\\Users\\12615\\AppData\\Local\\Temp\\QtCreator-dgZsoR\\clang-uiheader-DkDzmc",
+        "C:\\Users\\12615\\AppData\\Local\\Temp\\QtCreator-CeQSCp\\clang-uiheader-mAHhHO",
         "-nostdinc",
         "-nostdinc++",
         "--driver-mode=cl",
@@ -2389,7 +2389,7 @@
         "-D__FUNCTION__=\"someLegalAndLongishFunctionNameThatWorksAroundQTCREATORBUG-24580\"",
         "-D__FUNCDNAME__=\"?someLegalAndLongishFunctionNameThatWorksAroundQTCREATORBUG-24580@@YAXXZ\"",
         "-I",
-        "C:\\Users\\12615\\Desktop\\GymMngSys\\GymMngSys",
+        "C:\\Users\\12615\\Desktop\\GymMngSys\\client\\GymMngSys",
         "-I",
         "C:\\Users\\12615\\Desktop\\tools\\protobuf\\protobuf-3.20.1\\src",
         "-I",
@@ -2432,10 +2432,10 @@
         "-Wno-unknown-warning-option",
         "-Wno-documentation-unknown-command",
         "-fno-delayed-template-parsing",
-        "C:\\Users\\12615\\Desktop\\GymMngSys\\GymMngSys\\Personnel.h"
+        "C:\\Users\\12615\\Desktop\\GymMngSys\\client\\GymMngSys\\Personnel.h"
     ],
     "directory": "C:/Users/12615/Desktop/GymMngSys/build-GymMngSys-Desktop_Qt_6_3_0_MSVC2019_64bit-Release/.qtc_clangd",
-    "file": "C:/Users/12615/Desktop/GymMngSys/GymMngSys/Personnel.h"
+    "file": "C:/Users/12615/Desktop/GymMngSys/client/GymMngSys/Personnel.h"
 },
 {
     "arguments": [
@@ -2445,7 +2445,7 @@
         "-I",
         "C:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
         "-I",
-        "C:\\Users\\12615\\AppData\\Local\\Temp\\QtCreator-dgZsoR\\clang-uiheader-DkDzmc",
+        "C:\\Users\\12615\\AppData\\Local\\Temp\\QtCreator-CeQSCp\\clang-uiheader-mAHhHO",
         "-nostdinc",
         "-nostdinc++",
         "--driver-mode=cl",
@@ -2495,7 +2495,7 @@
         "-D__FUNCTION__=\"someLegalAndLongishFunctionNameThatWorksAroundQTCREATORBUG-24580\"",
         "-D__FUNCDNAME__=\"?someLegalAndLongishFunctionNameThatWorksAroundQTCREATORBUG-24580@@YAXXZ\"",
         "-I",
-        "C:\\Users\\12615\\Desktop\\GymMngSys\\GymMngSys",
+        "C:\\Users\\12615\\Desktop\\GymMngSys\\client\\GymMngSys",
         "-I",
         "C:\\Users\\12615\\Desktop\\tools\\protobuf\\protobuf-3.20.1\\src",
         "-I",
@@ -2538,10 +2538,10 @@
         "-Wno-unknown-warning-option",
         "-Wno-documentation-unknown-command",
         "-fno-delayed-template-parsing",
-        "C:\\Users\\12615\\Desktop\\GymMngSys\\GymMngSys\\Repairlog.h"
+        "C:\\Users\\12615\\Desktop\\GymMngSys\\client\\GymMngSys\\Repairlog.h"
     ],
     "directory": "C:/Users/12615/Desktop/GymMngSys/build-GymMngSys-Desktop_Qt_6_3_0_MSVC2019_64bit-Release/.qtc_clangd",
-    "file": "C:/Users/12615/Desktop/GymMngSys/GymMngSys/Repairlog.h"
+    "file": "C:/Users/12615/Desktop/GymMngSys/client/GymMngSys/Repairlog.h"
 },
 {
     "arguments": [
@@ -2551,7 +2551,7 @@
         "-I",
         "C:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
         "-I",
-        "C:\\Users\\12615\\AppData\\Local\\Temp\\QtCreator-dgZsoR\\clang-uiheader-DkDzmc",
+        "C:\\Users\\12615\\AppData\\Local\\Temp\\QtCreator-CeQSCp\\clang-uiheader-mAHhHO",
         "-nostdinc",
         "-nostdinc++",
         "--driver-mode=cl",
@@ -2601,7 +2601,7 @@
         "-D__FUNCTION__=\"someLegalAndLongishFunctionNameThatWorksAroundQTCREATORBUG-24580\"",
         "-D__FUNCDNAME__=\"?someLegalAndLongishFunctionNameThatWorksAroundQTCREATORBUG-24580@@YAXXZ\"",
         "-I",
-        "C:\\Users\\12615\\Desktop\\GymMngSys\\GymMngSys",
+        "C:\\Users\\12615\\Desktop\\GymMngSys\\client\\GymMngSys",
         "-I",
         "C:\\Users\\12615\\Desktop\\tools\\protobuf\\protobuf-3.20.1\\src",
         "-I",
@@ -2644,10 +2644,10 @@
         "-Wno-unknown-warning-option",
         "-Wno-documentation-unknown-command",
         "-fno-delayed-template-parsing",
-        "C:\\Users\\12615\\Desktop\\GymMngSys\\GymMngSys\\enum.h"
+        "C:\\Users\\12615\\Desktop\\GymMngSys\\client\\GymMngSys\\enum.h"
     ],
     "directory": "C:/Users/12615/Desktop/GymMngSys/build-GymMngSys-Desktop_Qt_6_3_0_MSVC2019_64bit-Release/.qtc_clangd",
-    "file": "C:/Users/12615/Desktop/GymMngSys/GymMngSys/enum.h"
+    "file": "C:/Users/12615/Desktop/GymMngSys/client/GymMngSys/enum.h"
 },
 {
     "arguments": [
@@ -2657,7 +2657,7 @@
         "-I",
         "C:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
         "-I",
-        "C:\\Users\\12615\\AppData\\Local\\Temp\\QtCreator-dgZsoR\\clang-uiheader-DkDzmc",
+        "C:\\Users\\12615\\AppData\\Local\\Temp\\QtCreator-CeQSCp\\clang-uiheader-mAHhHO",
         "-nostdinc",
         "-nostdinc++",
         "--driver-mode=cl",
@@ -2707,7 +2707,7 @@
         "-D__FUNCTION__=\"someLegalAndLongishFunctionNameThatWorksAroundQTCREATORBUG-24580\"",
         "-D__FUNCDNAME__=\"?someLegalAndLongishFunctionNameThatWorksAroundQTCREATORBUG-24580@@YAXXZ\"",
         "-I",
-        "C:\\Users\\12615\\Desktop\\GymMngSys\\GymMngSys",
+        "C:\\Users\\12615\\Desktop\\GymMngSys\\client\\GymMngSys",
         "-I",
         "C:\\Users\\12615\\Desktop\\tools\\protobuf\\protobuf-3.20.1\\src",
         "-I",
@@ -2750,10 +2750,10 @@
         "-Wno-unknown-warning-option",
         "-Wno-documentation-unknown-command",
         "-fno-delayed-template-parsing",
-        "C:\\Users\\12615\\Desktop\\GymMngSys\\GymMngSys\\exsi.h"
+        "C:\\Users\\12615\\Desktop\\GymMngSys\\client\\GymMngSys\\exsi.h"
     ],
     "directory": "C:/Users/12615/Desktop/GymMngSys/build-GymMngSys-Desktop_Qt_6_3_0_MSVC2019_64bit-Release/.qtc_clangd",
-    "file": "C:/Users/12615/Desktop/GymMngSys/GymMngSys/exsi.h"
+    "file": "C:/Users/12615/Desktop/GymMngSys/client/GymMngSys/exsi.h"
 },
 {
     "arguments": [
@@ -2763,7 +2763,7 @@
         "-I",
         "C:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
         "-I",
-        "C:\\Users\\12615\\AppData\\Local\\Temp\\QtCreator-dgZsoR\\clang-uiheader-DkDzmc",
+        "C:\\Users\\12615\\AppData\\Local\\Temp\\QtCreator-CeQSCp\\clang-uiheader-mAHhHO",
         "-nostdinc",
         "-nostdinc++",
         "--driver-mode=cl",
@@ -2813,7 +2813,7 @@
         "-D__FUNCTION__=\"someLegalAndLongishFunctionNameThatWorksAroundQTCREATORBUG-24580\"",
         "-D__FUNCDNAME__=\"?someLegalAndLongishFunctionNameThatWorksAroundQTCREATORBUG-24580@@YAXXZ\"",
         "-I",
-        "C:\\Users\\12615\\Desktop\\GymMngSys\\GymMngSys",
+        "C:\\Users\\12615\\Desktop\\GymMngSys\\client\\GymMngSys",
         "-I",
         "C:\\Users\\12615\\Desktop\\tools\\protobuf\\protobuf-3.20.1\\src",
         "-I",
@@ -2856,10 +2856,10 @@
         "-Wno-unknown-warning-option",
         "-Wno-documentation-unknown-command",
         "-fno-delayed-template-parsing",
-        "C:\\Users\\12615\\Desktop\\GymMngSys\\GymMngSys\\proto.pb.h"
+        "C:\\Users\\12615\\Desktop\\GymMngSys\\client\\GymMngSys\\proto.pb.h"
     ],
     "directory": "C:/Users/12615/Desktop/GymMngSys/build-GymMngSys-Desktop_Qt_6_3_0_MSVC2019_64bit-Release/.qtc_clangd",
-    "file": "C:/Users/12615/Desktop/GymMngSys/GymMngSys/proto.pb.h"
+    "file": "C:/Users/12615/Desktop/GymMngSys/client/GymMngSys/proto.pb.h"
 },
 {
     "arguments": [
@@ -2869,7 +2869,7 @@
         "-I",
         "C:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
         "-I",
-        "C:\\Users\\12615\\AppData\\Local\\Temp\\QtCreator-dgZsoR\\clang-uiheader-DkDzmc",
+        "C:\\Users\\12615\\AppData\\Local\\Temp\\QtCreator-CeQSCp\\clang-uiheader-mAHhHO",
         "-nostdinc",
         "-nostdinc++",
         "--driver-mode=cl",
@@ -2919,7 +2919,7 @@
         "-D__FUNCTION__=\"someLegalAndLongishFunctionNameThatWorksAroundQTCREATORBUG-24580\"",
         "-D__FUNCDNAME__=\"?someLegalAndLongishFunctionNameThatWorksAroundQTCREATORBUG-24580@@YAXXZ\"",
         "-I",
-        "C:\\Users\\12615\\Desktop\\GymMngSys\\GymMngSys",
+        "C:\\Users\\12615\\Desktop\\GymMngSys\\client\\GymMngSys",
         "-I",
         "C:\\Users\\12615\\Desktop\\tools\\protobuf\\protobuf-3.20.1\\src",
         "-I",

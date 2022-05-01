@@ -7,7 +7,7 @@
 *****************************************************************************/
 
 #include <memory>
-#include "../../GymMngSys/MainWidget.h"
+#include "../../client/GymMngSys/MainWidget.h"
 #include <QtGui/qtextcursor.h>
 #include <QtCore/qbytearray.h>
 #include <QtCore/qmetatype.h>

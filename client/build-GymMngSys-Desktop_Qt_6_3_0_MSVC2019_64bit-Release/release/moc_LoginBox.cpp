@@ -7,7 +7,7 @@
 *****************************************************************************/
 
 #include <memory>
-#include "../../GymMngSys/LoginBox.h"
+#include "../../client/GymMngSys/LoginBox.h"
 #include <QtCore/qbytearray.h>
 #include <QtCore/qmetatype.h>
 #if !defined(Q_MOC_OUTPUT_REVISION)
