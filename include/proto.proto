@@ -1,0 +1,82 @@
+syntax = "proto3";
+
+package Proto;
+
+message request
+{
+    int32 function = 1;
+    int32 table_name = 2;
+    repeated int32 gymid = 3;
+    repeated Student addstu = 4;
+    repeated Repairlog addlog = 5;
+    repeated Student delstu = 6;
+    repeated Repairlog dellog = 7;
+    repeated Student in = 8;
+    repeated Student out = 9;
+    repeated ChangePerson changestu = 10;
+    int32 uprice = 11;
+    repeated Gyminfo login = 12;
+    repeated Gyminfo reg = 13;
+    repeated SetPrice setprice = 14;
+}
+
+message response
+{
+    int32 function = 1;
+    bool res = 2;
+    int32 table_name = 3;
+    repeated int32 gymid = 4;
+    repeated Student stu = 5;
+    repeated Repairlog log = 6;
+    repeated Gyminfo gyminfo = 7;
+}
+
+message Gyminfo
+{
+    repeated int32 gymid = 1;
+    repeated int32 gymname = 2;
+    repeated int32 position = 3;
+    repeated int32 builttime = 4;
+    int32 profit = 5;
+    repeated int32 password = 6;
+    bool fitness = 7;
+    bool basketball = 8;
+    bool badminton = 9;
+    bool swimming = 10;
+    bool bath = 11;
+    bool contest = 12;
+    int32 uprice = 13;
+}
+
+message Student
+{
+    repeated int32 uid = 1;
+    repeated int32 name = 2;
+    bool gender = 3;
+    int32 age = 4;
+    repeated int32 st_time = 5;
+    int32 balance = 6;
+    repeated Repairlog log = 7;
+}
+
+message Repairlog
+{
+    repeated int32 gymid = 1;
+    repeated int32 time = 2;
+    repeated int32 reason = 3;
+    int32 spend = 4;
+    repeated int32 uid = 5;
+}
+
+message ChangePerson
+{
+    repeated int32 uid = 1;
+    repeated int32 column = 2;
+    repeated int32 value = 3;
+}
+
+message SetPrice
+{
+    repeated int32 gymid = 1;
+    int32 uprice = 2;
+}
